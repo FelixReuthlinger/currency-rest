@@ -25,12 +25,12 @@ http://943r6.mocklab.io/exchange-rates/:currency, where valid currencies are: `G
 static, however your implementation should assume that this data will change over time.
 
 ## Submission notes:
-● Feel free to pick your libraries of choice to get the job done, the only constraint is to
+ * Feel free to pick your libraries of choice to get the job done, the only constraint is to
 implement the exercise in Scala.
-● Explain your assumptions in a README file. Consider mentioning what you would do
+ * Explain your assumptions in a README file. Consider mentioning what you would do
 next if you were to productionise this service, consuming real data and exposing it to a
 real audience.
-● Try to time-box this assignment to 3-5 hours max. You don’t need to polish your
+ * Try to time-box this assignment to 3-5 hours max. You don’t need to polish your
 submission excessively. The main purpose of this exercise is to give us a sense of your
 approach to designing and building software.
-● There’s no need to deploy your service online as long as we can build it and run locally.
+ * There’s no need to deploy your service online as long as we can build it and run locally.
