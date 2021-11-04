@@ -3,3 +3,4 @@
 # https://www.playframework.com/documentation/latest/ScalaRouting
 # ~~~~
 
+GET     /currency                       controllers.CurrencyController.getAll
